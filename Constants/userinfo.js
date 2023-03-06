@@ -6,7 +6,7 @@ export const userinfo = {
     logoText: "Huseyin Cinar", //This text is visible on your navbar and footer like your logo.
     contact: {
         email: 'huseyinncinar0@gmail.com', //It is always a good idea to mention your email on your website. Good platform to communicate.
-        phone: '555 555 55 55', //Phone number is optional, if you dont want it, consider leaving it blank .
+        phone: ' 555 555 55 55', //Phone number is optional, if you dont want it, consider leaving it blank .
         countrycode: '+90' //It is advisable to add the country code incase you mention your contact number.
     },
     socials: [
