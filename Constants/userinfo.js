@@ -97,7 +97,7 @@ export const userinfo = {
                 companylogo: 'https://futuree.netlify.app/resimler/futurebanner.png',
                 position: 'Company Owner',
                 time: 'March 2020 - ...',
-                description: 'The Future comes from many parts of the world; was established to gather people with different purposes such as software, coding, programming opening a website, on a single website.'
+                description: 'The Future comes from many parts of the world; was established to gather people with different purposes such as software, coding, programming on a single website.'
             },
         ],
     },
