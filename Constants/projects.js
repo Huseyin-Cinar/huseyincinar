@@ -15,27 +15,27 @@ export const projects = [
     //leave the githublink field blank if it is a private repo or doent exist, alerts will take care of it
     //leave the projectlink field blank if it the project has not been deployed, alerts will take care of it
     {
-        name: 'Dunder Mifflin', //project name
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum', //project description
-        githubLink: '', //github repo link
-        projectLink: '', //deployed project link
-        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo: [PROJECT1_1, PROJECT1_2, PROJECT1_3], //list of names of images from above imports.
+        name: 'Web Apps', //project name
+        description: 'This repository includes apps where applications programmed on the internet by our software team are compiled. Made with ❤️ Open Source.', //project description
+        githubLink: 'https://github.com/Huseyin-Cinar/web-apps', //github repo link
+        projectLink: 'https://futuree.netlify.app/en/coding', //deployed project link
+        tech: ['Html', 'Css', 'Javascript'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo: ["https://repository-images.githubusercontent.com/607547926/07090fbc-efdb-4892-b74c-acb919ac5189"], //list of names of images from above imports.
     },
     {
-        name: 'Project 2',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum',
-        githubLink: '/',
-        projectLink: '/',
-        tech: ['Tech1', 'Tech2', 'Tech3'],
-        photo: [PROJECT2_1, PROJECT2_2, PROJECT2_3],
+        name: 'Speed Test',
+        description: "Only using html, css and js making a easy speedtest website. Writed & edited by Huseyin Cinar based from Sibersozluk. It's completely ready to use, I recommend pulling it from glitch or downloading it as a zip.",
+        githubLink: 'https://github.com/Huseyin-Cinar/speedtest-website',
+        projectLink: 'https://futuree.netlify.app/apps/speedtest',
+        tech: ['Html', 'Css', 'Javascript'],
+        photo: ["https://repository-images.githubusercontent.com/606010669/777f191e-61d3-4412-abf2-71f9ebb59566"],
     },
     {
-        name: 'Project 3',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum',
-        githubLink: '/',
-        projectLink: '/',
-        tech: ['Tech1', 'Tech2', 'Tech3'],
-        photo: [PROJECT3_1, PROJECT3_2, PROJECT3_3],
+        name: 'Discord Bot',
+        description: 'Hello Friends, This Infrastructure was Made in 2018, and the Necessary Corrections were Made on October 5, 2022. This Infrastructure Now Supports Discord.js v14 Version! You can use it easily!',
+        githubLink: 'https://github.com/Huseyin-Cinar/discord-altyapi-bot',
+        projectLink: 'https://futuree.netlify.app/dc',
+        tech: ['Javascript', 'Typescript', 'Batch'],
+        photo: ["https://futuree.netlify.app/resimler/discord-mark-blue.png"],
     },
 ]
