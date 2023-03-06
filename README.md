@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+<!--<br />
 <p align="center">
   <h1 align="center">NextJS Portfolio Template</h1>
   <p align="center">
@@ -16,7 +16,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<!--<details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -53,7 +53,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ## About The Project
 
 Making a Portfolio website from scratch can be a tedious process. This repository solves that problem. How? Well, it is a easy-to-use portfolio template! You can use it by following a few simple instructions given below. Feel free to suggest changes and features too!
 
@@ -79,7 +79,7 @@ To view a demo, [click here](https://michaelscott-nextjstemp.vercel.app/)\
 To view a live example, [click here](https://asavariambavane.vercel.app/)
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
@@ -104,7 +104,7 @@ npm - Latest version of npm works the best with this project. Run the following 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 These are instructions to use the project once you have cloned it. Follow them step by step for the best experience. Comments are mentioned in the files as guides.
 
 ### User Info
