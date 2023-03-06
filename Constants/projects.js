@@ -8,6 +8,9 @@ import PROJECT2_3 from '../styles/projects/Project2_3.jpg';
 import PROJECT3_1 from '../styles/projects/Project3_1.jpg';
 import PROJECT3_2 from '../styles/projects/Project3_2.jpg';
 import PROJECT3_3 from '../styles/projects/Project3_3.jpg';
+import WEBAPPS from '../styles/projects/webapps.png';
+import SPEED from '../styles/projects/speedtest.png';
+import DISCORD from '../styles/projects/discord-banner-blue.png';
 
 // first 3 projects are visible on the homepage while all are visible on the work page.
 
@@ -20,7 +23,7 @@ export const projects = [
         githubLink: 'https://github.com/Huseyin-Cinar/web-apps', //github repo link
         projectLink: 'https://futuree.netlify.app/en/coding', //deployed project link
         tech: ['Html', 'Css', 'Javascript'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo: ["https://futuree.netlify.app/galeri/webapps.png"], //list of names of images from above imports.
+        photo: WEBAPPS, //list of names of images from above imports.
     },
     {
         name: 'Speed Test',
@@ -28,7 +31,7 @@ export const projects = [
         githubLink: 'https://github.com/Huseyin-Cinar/speedtest-website',
         projectLink: 'https://futuree.netlify.app/apps/speedtest',
         tech: ['Html', 'Css', 'Javascript'],
-        photo: ["https://futuree.netlify.app/galeri/speedtest.png"],
+        photo: SPEED,
     },
     {
         name: 'Discord Bot',
@@ -36,6 +39,6 @@ export const projects = [
         githubLink: 'https://github.com/Huseyin-Cinar/discord-altyapi-bot',
         projectLink: 'https://futuree.netlify.app/dc',
         tech: ['Javascript', 'Typescript', 'Batch'],
-        photo: ["https://futuree.netlify.app/galeri/discord-banner-blue.png"],
+        photo: DISCORD,
     },
 ]
