@@ -51,6 +51,18 @@ export const userinfo = {
         visible: true, //set this to false if you want to omit this section
         educationList: [
             {
+                time: 'May - Oct 2018', //timespan
+                title: 'Student', //eg. BTech in Compuster Engineering
+                organization: 'Seventy-fifth year Middle School', //eg. VJTI, Mumbai
+                description: 'Secured a diploma score of 97.2 in all sems appeared in so far.' //eg. secured a cgpa of 9.25 in all sems appeared in so far
+            },
+            {
+                time: 'May - Oct 2019', //timespan
+                title: 'Student', //eg. BTech in Compuster Engineering
+                organization: 'Seventy-fifth year Middle School', //eg. VJTI, Mumbai
+                description: 'Secured a diploma score of 96.4 in all sems appeared in so far.' //eg. secured a cgpa of 9.25 in all sems appeared in so far
+            },
+            {
                 time: 'May - Oct 2020', //timespan
                 title: 'Student', //eg. BTech in Compuster Engineering
                 organization: 'Seventy-fifth year Middle School', //eg. VJTI, Mumbai
