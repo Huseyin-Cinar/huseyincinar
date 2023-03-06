@@ -26,12 +26,12 @@ export const userinfo = {
         //For aesthetics, it is advisable for you to mention upto 4 catgeories links only.
         //For aesthetics, it is advisable for you to keep similar number of skills in each category
         {
-            category: "frontend", // eg.frontend, backend, devops etc
+            category: "front-end", // eg.frontend, backend, devops etc
             skills: ["Html", "Css", "Phyton"] //eg. react, html, python etc.
         },
         {
-            category: "backend",
-            skills: ["Javascript", "Typescript", "Php"]
+            category: "back-end",
+            skills: ["JavaScript", "TypeScript", "PHP"]
         },
         { 
             category: "discord.js",
