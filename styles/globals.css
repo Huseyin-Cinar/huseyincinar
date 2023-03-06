@@ -5,17 +5,8 @@ body {
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
-  cursor: url('https://futuree.netlify.app/cursors/icons8-blue-pointer-20w.png'), auto;
   /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
-}
-
-input,p,h1,h2,h3,h4,h5,h6:hover {
-cursor: url('https://futuree.netlify.app/cursors/icons8-blue-pointer-20w.png'), auto;
-}
-
-a,button,select,option:hover {
-cursor: url('https://futuree.netlify.app/cursors/icons8-hand-cursor-20w.png'), auto;
 }
 
 a {
