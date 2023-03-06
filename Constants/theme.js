@@ -1,4 +1,5 @@
 export const lightTheme = {
+    cursor: "cursor: url('https://futuree.netlify.app/cursors/icons8-blue-pointer-20.png'), auto;",
     name: 'light',
     body: '#fefefe',
     text: '#363537',
@@ -12,6 +13,7 @@ export const lightTheme = {
   }
   
   export const darkTheme = {
+    cursor: 'cursor: url("https://futuree.netlify.app/cursors/icons8-blue-pointer-20w.png"), auto;',  
     name: 'dark',
     body: '#17223b',
     text: '#FAFAFA',
