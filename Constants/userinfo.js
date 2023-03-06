@@ -44,7 +44,7 @@ export const userinfo = {
     ],
     about: {
         //this text goes at the bottom of your home page.
-        content: "Hi, I'm 16 years old Self-taught Front-end Developer and I most improve myself on Cascading Style Sheets. I am working on [Hack Club](https://google.com) and the Future from Home in Turkiye. I can speaking English, Turkish and a little bit German. I stopped making Discord bots but I still do to special requests. You can find all my links for advertising and collaborations contact page. Currently, I am website creating with HTML, CSS and Javascript. I think that's all, if you like me you can follow me on Github.",
+        content: "Hi, I'm 16 years old Self-taught Front-end Developer and I most improve myself on Cascading Style Sheets. I am working on Hack Club and the Future from Home in Turkiye. I can speaking English, Turkish and a little bit German. I stopped making Discord bots but I still do to special requests. You can find all my links for advertising and collaborations contact page. Currently, I am website creating with HTML, CSS and Javascript. I think that's all, if you like me you can follow me on Github.",
         resume: "https://futuree.netlify.app/en" //link your resume here. it can be drive link or any other link
     },
     education: {
