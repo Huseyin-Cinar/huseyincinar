@@ -30,6 +30,20 @@ export const custom_blogs = [
         thumbnail: blog,
         categories: ['Html', 'Css']
     },
+    {
+        title: 'Side Menu',
+        description: 'In this article, I will talk about how to make a side menu that can be opened and closed using Html, Css and Javascript. This feature, which we will do with Css in general, is very popular, but also so easy to make, I tried to explain it to you in the simplest and simplest way, I hope you like it.',
+        link: 'https://futuree.netlify.app/kodlama/html-css-ve-js-ile-kapanip-acilabilen-yan-menu-yapma',
+        thumbnail: blog,
+        categories: ['Html', 'Css', 'Javascript']
+    },
+    {
+        title: 'Making Loaders',
+        description: 'In this article, I will talk about how to make a Loader using Html and Css . This feature allows your users to see the loader we are going to do, not the moment of loading, when opening websites or during the delay time (ms) of any page. It has a very simple code, I hope you like it.',
+        link: 'https://futuree.netlify.app/kodlama/html-ve-css-ile-loader-yapma',
+        thumbnail: blog,
+        categories: ['Html', 'Css']
+    },
 ]
 
 // uncomment the following code if you want to fetch your medium articles and comment out the custom blogs code above
