@@ -33,7 +33,7 @@ export const userinfo = {
             category: "backend",
             skills: ["javascript", "typescript", "php"]
         },
-        { altyapı
+        { 
             category: "discord.js",
             skills: ["v14 Bot", "Server Template", "Music Infrastructure"]
         },
