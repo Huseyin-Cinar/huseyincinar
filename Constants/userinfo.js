@@ -94,14 +94,14 @@ export const userinfo = {
             {
                 company: 'Hack Club', //company name eg.Microsoft
                 companylogo: 'https://avatars.githubusercontent.com/u/5633654?v=4', //companylogo
-                position: 'Contributor', //post you held eg.Senior SDE
+                position: 'Contributor & Member', //post you held eg.Senior SDE
                 time: 'February 2023 - ...', //timespan
                 description: 'A worldwide community of high school hackers. By the students, for the students.' //eg. spearheaded the graphics team in designing SASS product UIs
             },
             {
                 company: 'the Future',
-                companylogo: 'https://futuree.netlify.app/resimler/futurebanner2.png',
-                position: 'Company Owner',
+                companylogo: 'https://futuree.netlify.app/resimler/futurebanner.png',
+                position: 'Company Owner ',
                 time: 'March 2020 - ...',
                 description: 'The Future comes from many parts of the world; was established to gather people with different purposes such as software, coding, programming on a single website.'
             },
