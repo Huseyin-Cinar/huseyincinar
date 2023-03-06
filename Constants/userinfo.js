@@ -27,11 +27,11 @@ export const userinfo = {
         //For aesthetics, it is advisable for you to keep similar number of skills in each category
         {
             category: "frontend", // eg.frontend, backend, devops etc
-            skills: ["html", "css", "phyton"] //eg. react, html, python etc.
+            skills: ["Html", "Css", "Phyton"] //eg. react, html, python etc.
         },
         {
             category: "backend",
-            skills: ["javascript", "typescript", "php"]
+            skills: ["Javascript", "Typescript", "Php"]
         },
         { 
             category: "discord.js",
@@ -54,19 +54,19 @@ export const userinfo = {
                 time: 'May - Oct 2020', //timespan
                 title: 'Student', //eg. BTech in Compuster Engineering
                 organization: 'Seventy-fifth year Middle School', //eg. VJTI, Mumbai
-                description: 'secured a diploma score of 100 in all sems appeared in so far' //eg. secured a cgpa of 9.25 in all sems appeared in so far
+                description: 'Secured a diploma score of 100 in all sems appeared in so far.' //eg. secured a cgpa of 9.25 in all sems appeared in so far
             },
             {
                 time: 'May - Oct 2021',
                 title: 'Student',
                 organization: 'Farabi Anatolian High School',
-                description: 'secured a diploma score of 97.9 in all sems appeared in so far'
+                description: 'Secured a diploma score of 97.9 in all sems appeared in so far.'
             },
             {
                 time: 'May - Oct 2022',
                 title: 'Student',
                 organization: 'Farabi Anatolian High School',
-                description: 'secured a diploma score of 99.1 in all sems appeared in so far'
+                description: 'Secured a diploma score of 99.1 in all sems appeared in so far.'
             },
         ],
     },
