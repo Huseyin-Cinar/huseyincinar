@@ -8,9 +8,9 @@ import PROJECT2_3 from '../styles/projects/Project2_3.jpg';
 import PROJECT3_1 from '../styles/projects/Project3_1.jpg';
 import PROJECT3_2 from '../styles/projects/Project3_2.jpg';
 import PROJECT3_3 from '../styles/projects/Project3_3.jpg';
-import WEBAPPS from '../styles/projects/webapps.png';
-import SPEED from '../styles/projects/speedtest.png';
-import DISCORD from '../styles/projects/discord-banner-blue.png';
+import WEBAPPS from '../styles/projects/webapps1.png';
+import SPEED from '../styles/projects/speed1.png';
+import DISCORD from '../styles/projects/discord1.png';
 
 // first 3 projects are visible on the homepage while all are visible on the work page.
 
