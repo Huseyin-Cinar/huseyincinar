@@ -1,4 +1,4 @@
-import blog from '../styles/projects/blog.jpg'
+import blog from '../styles/projects/blog.png'
 
 export const custom_blogs = [
     // please add only upto 6 blogs for maintaining the ui
