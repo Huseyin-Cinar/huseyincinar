@@ -11,7 +11,7 @@ body {
 }
 
 input,p,h1,h2,h3,h4,h5,h6:hover {
-cursor: url('https://futuree.netlify.app/cursors/icons8-text-cursor-20w.png'), auto;
+cursor: url('https://futuree.netlify.app/cursors/icons8-blue-pointer-20w.png'), auto;
 }
 
 a,button,select,option:hover {
