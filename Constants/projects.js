@@ -20,7 +20,7 @@ export const projects = [
         githubLink: 'https://github.com/Huseyin-Cinar/web-apps', //github repo link
         projectLink: 'https://futuree.netlify.app/en/coding', //deployed project link
         tech: ['Html', 'Css', 'Javascript'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo: ["https://repository-images.githubusercontent.com/607547926/07090fbc-efdb-4892-b74c-acb919ac5189"], //list of names of images from above imports.
+        photo: ["https://futuree.netlify.app/galeri/webapps.png"], //list of names of images from above imports.
     },
     {
         name: 'Speed Test',
@@ -28,7 +28,7 @@ export const projects = [
         githubLink: 'https://github.com/Huseyin-Cinar/speedtest-website',
         projectLink: 'https://futuree.netlify.app/apps/speedtest',
         tech: ['Html', 'Css', 'Javascript'],
-        photo: ["https://repository-images.githubusercontent.com/606010669/777f191e-61d3-4412-abf2-71f9ebb59566"],
+        photo: ["https://futuree.netlify.app/galeri/speedtest.png"],
     },
     {
         name: 'Discord Bot',
@@ -36,6 +36,6 @@ export const projects = [
         githubLink: 'https://github.com/Huseyin-Cinar/discord-altyapi-bot',
         projectLink: 'https://futuree.netlify.app/dc',
         tech: ['Javascript', 'Typescript', 'Batch'],
-        photo: ["https://futuree.netlify.app/resimler/discord-mark-blue.png"],
+        photo: ["https://futuree.netlify.app/galeri/discord-banner-blue.png"],
     },
 ]
