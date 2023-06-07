@@ -27,11 +27,11 @@ export const userinfo = {
         //For aesthetics, it is advisable for you to keep similar number of skills in each category
         {
             category: "front-end", // eg.frontend, backend, devops etc
-            skills: ["Html", "Css", "Phyton"] //eg. react, html, python etc.
+            skills: ["Html", "Css", "SVG"] //eg. react, html, python etc.
         },
         {
             category: "back-end",
-            skills: ["JavaScript", "TypeScript", "PHP"]
+            skills: ["Python", "JavaScript", "PHP"]
         },
         { 
             category: "discord.js",
@@ -84,7 +84,7 @@ export const userinfo = {
                 time: 'May - Oct 2022',
                 title: 'Student',
                 organization: 'Farabi Anatolian High School',
-                description: 'Secured a diploma score of 99.1 in all sems appeared in so far.'
+                description: 'Secured a diploma score of 99.7 in all sems appeared in so far.'
             },
         ],
     },
