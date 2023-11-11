@@ -19,7 +19,7 @@ export const userinfo = {
     greeting: {
         //this text goes on your landing page
         title: "Hey there, I am Huseyin.",
-        subtitle: "I'm 17 years old Self-taught Front-end Developer and I most improve myself on Cascading Style Sheets. I love it." 
+        subtitle: "I'm 17 years old Self-taught Full-stack web Developer and I most improve myself on Cascading Style Sheets. I love it." 
     },
     capabilities: [
         //this text goes on your home page in table format.
