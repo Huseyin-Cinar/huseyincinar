@@ -44,7 +44,7 @@ export const userinfo = {
     ],
     about: {
         //this text goes at the bottom of your home page.
-        content: "Hi, I'm 16 years old Self-taught Front-end Developer and I most improve myself on Cascading Style Sheets. I am working on Hack Club and the Future from Home in Turkiye. I can speaking English, Turkish and a little bit German. I stopped making Discord bots but I still do to special requests. You can find all my links for advertising and collaborations contact page. Currently, I am website creating with HTML, CSS and Javascript. I think that's all, if you like me you can follow me on Github.",
+        content: "I'm a student, coder, sportsman, male.",
         resume: "https://github.com/Huseyin-Cinar" //link your resume here. it can be drive link or any other link
     },
     education: {
@@ -54,13 +54,13 @@ export const userinfo = {
                 time: 'May - Oct 2017', //timespan
                 title: 'Student', //eg. BTech in Compuster Engineering
                 organization: 'Seventy-fifth year Middle School', //eg. VJTI, Mumbai
-                description: 'Secured a diploma score of 95.7 in all sems appeared in so far.' //eg. secured a cgpa of 9.25 in all sems appeared in so far
+                description: 'Secured a diploma score of 97 in all sems appeared in so far.' //eg. secured a cgpa of 9.25 in all sems appeared in so far
             },
             {
                 time: 'May - Oct 2018', //timespan
                 title: 'Student', //eg. BTech in Compuster Engineering
                 organization: 'Seventy-fifth year Middle School', //eg. VJTI, Mumbai
-                description: 'Secured a diploma score of 97.2 in all sems appeared in so far.' //eg. secured a cgpa of 9.25 in all sems appeared in so far
+                description: 'Secured a diploma score of 95.5 in all sems appeared in so far.' //eg. secured a cgpa of 9.25 in all sems appeared in so far
             },
             {
                 time: 'May - Oct 2019', //timespan
@@ -84,7 +84,7 @@ export const userinfo = {
                 time: 'May - Oct 2022',
                 title: 'Student',
                 organization: 'Farabi Anatolian High School',
-                description: 'Secured a diploma score of 99.7 in all sems appeared in so far.'
+                description: 'Secured a diploma score of 99.5 in all sems appeared in so far.'
             },
         ],
     },
